@@ -38,7 +38,7 @@ group by categoria;
 select *
 from livros
 where titulo like '5%' and
-ano-publicacao between  1970 and 1990;
+ano_publicacao between  1970 and 1990;
 
 
 
